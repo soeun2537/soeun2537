@@ -1,16 +1,42 @@
-## Hi there 👋
+## 📚 Experience
+- **서울시립대학교** - 인공지능학과 ( 2022.03 ~ )
+- **UOSLIFE**
+  - Frontend Developer ( 2024.02 ~ 2024.06 )
+  - Backend Developer ( 2024.06 ~ )
+- **Capstone** - Backend Developer ( 2024.08 ~ )
+- **플로팅** - Backend Developer ( 2024.09 ~ )
+<br/>
 
-<!--
-**soeun2537/soeun2537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
+</div>
+<br/>
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soeun2537&hide_title=true&show_icons=true)](https://github.com/soeun2537)
+</div>
+<br/>
+
+## 🏆 Baekjoon Rank
+<div>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soeun2537)](https://solved.ac/soeun2537)
+</div>
