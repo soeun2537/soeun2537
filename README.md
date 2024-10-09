@@ -1,10 +1,10 @@
 ## 📚 Experience
-- **서울시립대학교** - 인공지능학과 ( 2022.03 ~ )
+- **ploting** - Backend Developer ( 2024.10 ~ )
+- **capstone** - Backend Developer ( 2024.08 ~ )
 - **UOSLIFE**
-  - Frontend Developer ( 2024.02 ~ 2024.06 )
   - Backend Developer ( 2024.06 ~ )
-- **Capstone** - Backend Developer ( 2024.08 ~ )
-- **플로팅** - Backend Developer ( 2024.09 ~ )
+  - Frontend Developer ( 2024.02 ~ 2024.06 )
+- **서울시립대학교** - 인공지능학과 ( 2022.03 ~ )
 <br/>
 
 ## 🛠️ Tech Stack
