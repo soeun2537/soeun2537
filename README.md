@@ -1,6 +1,6 @@
 ## 📚 Experience
-- **ploting** - Backend Developer ( 2024.10 ~ )
-- **capstone** - Backend Developer ( 2024.08 ~ )
+- **플로팅** - Backend Developer ( 2024.10 ~ 2024.11 )
+- **맘찬픽** - Backend Developer ( 2024.08 ~ 2024.12 )
 - **UOSLIFE**
   - Backend Developer ( 2024.06 ~ )
   - Frontend Developer ( 2024.02 ~ 2024.06 )
